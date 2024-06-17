@@ -1,1 +1,1 @@
-tomcat
+lobehub/lobe-chat:latest
