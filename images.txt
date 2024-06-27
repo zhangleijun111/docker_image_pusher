@@ -1,3 +1,2 @@
-lobehub/lobe-chat
-ghcr.io/open-webui/open-webui:main
-1panel/maxkb
+lobehub
+yidadaa/chatgpt-next-web
