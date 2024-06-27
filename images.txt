@@ -1,2 +1,1 @@
-lobehub
-yidadaa/chatgpt-next-web
+lobehub/lobe-chat
