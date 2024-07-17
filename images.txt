@@ -1,2 +1,1 @@
-lobehub/lobe-chat
-chatimage/chatchat:0.3.0-0622
+lobehub/lobe-chat：latest
