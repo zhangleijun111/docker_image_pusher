@@ -1,2 +1,2 @@
 lobehub/lobe-chat
-ollama
+ydlhero/chatgpt-web-midjourney-proxy
