@@ -1,3 +1,2 @@
 lobehub/lobe-chat
-lobe-chat-database
 
