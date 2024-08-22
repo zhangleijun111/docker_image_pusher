@@ -1,2 +1,3 @@
 lobehub/lobe-chat
 pgvector/pgvector:pg16
+lobehub/lobe-chat-database
