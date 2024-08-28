@@ -2,3 +2,4 @@ lobehub/lobe-chat
 lobehub/lobe-chat-database
 minio/minio:latest
 nginx
+svhd/logto
