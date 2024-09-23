@@ -1,3 +1,4 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-database
 nginx
+ghcr.io/zitadel/zitadel:latest
