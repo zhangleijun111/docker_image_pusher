@@ -1,3 +1,2 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-database
-ghcr.io/zitadel/zitadel:latest
