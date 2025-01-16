@@ -1,5 +1,8 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-database
-langgenius/dify-api:0.15.1
-langgenius/dify-web:0.15.1
-nginx
+mysql:8.0.26
+zabbix/zabbix-server-mysql:alpine-5.4-latest
+zabbix/zabbix-web-nginx-mysql:alpine-5.4-latest
+zabbix/zabbix-agent:alpine-5.4-latest
+zabbix/zabbix-snmptraps:alpine-5.4-latest
+grafana/grafana:8.1.2
