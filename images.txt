@@ -1,3 +1,4 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-database
 ghcr.io/open-webui/open-webui:main
+searxng/searxng
