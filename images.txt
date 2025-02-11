@@ -2,4 +2,4 @@ lobehub/lobe-chat
 lobehub/lobe-chat-database
 langgenius/dify-api
 langgenius/dify-web
-nginx
+
