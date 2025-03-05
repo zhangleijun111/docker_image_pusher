@@ -3,3 +3,4 @@ lobehub/lobe-chat-database
 langgenius/dify-api
 langgenius/dify-web
 nginx
+langgenius/dify-plugin-daemon:0.0.3-local
