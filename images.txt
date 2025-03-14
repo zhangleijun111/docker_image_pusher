@@ -5,3 +5,4 @@ langgenius/dify-web
 nginx
 1panel/maxkb
 langgenius/dify-plugin-daemon:0.0.4-local
+milvusdb/milvus:v2.5.0-beta
