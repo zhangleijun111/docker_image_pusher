@@ -1,9 +1,9 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-database
-langgenius/dify-api:1.1.1
-langgenius/dify-web:1.1.1
+langgenius/dify-api:1.2.0
+langgenius/dify-web:1.2.0
 nginx
 1panel/maxkb
-langgenius/dify-plugin-daemon:0.0.6-local
+langgenius/dify-plugin-daemon:0.0.7-local
 milvusdb/milvus:v2.5.0-beta
 hanfangyuan/dify-on-wechat
