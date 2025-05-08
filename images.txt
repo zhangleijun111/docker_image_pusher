@@ -2,7 +2,6 @@ lobehub/lobe-chat
 lobehub/lobe-chat-database
 langgenius/dify-api:1.3.1
 langgenius/dify-web:1.3.1
-nginx
 1panel/maxkb
 langgenius/dify-plugin-daemon:0.0.9-local
 milvusdb/milvus:v2.5.0-beta
