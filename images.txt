@@ -12,3 +12,4 @@ valkey/valkey:8
 infiniflow/sandbox-executor-manager:latest
 elasticsearch:8.11.3
 infiniflow/ragflow:v0.19.1-slim
+mysql:8.0.39
