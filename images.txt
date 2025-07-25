@@ -1,2 +1,2 @@
-vastdata/vastbase-vector
+Vastdata/Vastbase-vector
 nginx
