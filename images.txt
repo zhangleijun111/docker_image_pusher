@@ -1,1 +1,2 @@
 vastdata/vastbase-vector
+nginx
