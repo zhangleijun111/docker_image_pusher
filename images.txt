@@ -1,4 +1,3 @@
-lobehub/lobe-chat
 lobehub/lobe-chat-database
 langgenius/dify-api:1.7.0
 langgenius/dify-web:1.7.0
