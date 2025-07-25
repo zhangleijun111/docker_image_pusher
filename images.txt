@@ -1,3 +1,1 @@
-vastdata/vastbase-vector
 opengauss/opengauss:7.0.0-RC1
-matrixorigin/matrixone:2.1.1
