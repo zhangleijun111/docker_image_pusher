@@ -1,9 +1,1 @@
-lobehub/lobe-chat-database
-langgenius/dify-api:1.7.0
-langgenius/dify-web:1.7.0
-langgenius/dify-plugin-daemon:0.2.0-local
-langgenius/dify-sandbox:0.2.12
-hub.icert.top/opensearchproject/opensearch:2.19.1
-infiniflow/infinity:v0.6.0-dev3
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 vastdata/vastbase-vector
