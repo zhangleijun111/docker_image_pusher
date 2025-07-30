@@ -9,3 +9,4 @@ mysql:latest
 clickhouse/clickhouse-server:latest
 minio/minio:latest
 apache/rocketmq:latest
+vastdata/vastbase-vector
