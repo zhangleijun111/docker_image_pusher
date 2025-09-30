@@ -1,6 +1,6 @@
 lobehub/lobe-chat-database
-langgenius/dify-api:1.9.0
-langgenius/dify-web:1.9.0
+langgenius/dify-api:1.9.1
+langgenius/dify-web:1.9.1
 langgenius/dify-plugin-daemon:0.3.0-local
 langgenius/dify-sandbox:0.2.12
 nginx:latest
@@ -11,4 +11,3 @@ minio/minio:latest
 apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
-rockchin/langbot:latest
