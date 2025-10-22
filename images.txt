@@ -11,3 +11,4 @@ minio/minio:latest
 apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
+semitechnologies/weaviate:1.27.0
