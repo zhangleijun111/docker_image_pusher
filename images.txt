@@ -11,4 +11,4 @@ minio/minio:latest
 apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
-
+homeassistant/home-assistant:latest
