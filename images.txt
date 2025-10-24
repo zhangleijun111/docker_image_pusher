@@ -3,9 +3,6 @@ langgenius/dify-api:1.9.2
 langgenius/dify-web:1.9.2
 langgenius/dify-plugin-daemon:0.3.3-local
 langgenius/dify-sandbox:0.2.12
-nginx:latest
-redis:latest
-mysql:latest
 clickhouse/clickhouse-server:latest
 minio/minio:latest
 apache/rocketmq:latest
