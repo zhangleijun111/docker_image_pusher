@@ -7,3 +7,4 @@ minio/minio:latest
 apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
+docker.n8n.io/n8nio/n8n
