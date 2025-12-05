@@ -7,4 +7,3 @@ minio/minio:latest
 apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
-rockchin/langbot:latest
