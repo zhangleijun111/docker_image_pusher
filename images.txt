@@ -1,7 +1,7 @@
 lobehub/lobe-chat-database
-langgenius/dify-api:1.10.1
-langgenius/dify-web:1.10.1
-langgenius/dify-plugin-daemon:0.4.1-local
+langgenius/dify-api:1.11.0
+langgenius/dify-web:1.11.0
+langgenius/dify-plugin-daemon:0.5.1-local
 langgenius/dify-sandbox:0.2.12
 minio/minio:latest
 apache/rocketmq:latest
