@@ -4,7 +4,6 @@ langgenius/dify-web:1.11.0
 langgenius/dify-plugin-daemon:0.5.1-local
 langgenius/dify-sandbox:0.2.12
 minio/minio:latest
-apache/rocketmq:latest
 opencoze/opencoze:latest
 opencoze/web:latest
 mysql:8.4.5
