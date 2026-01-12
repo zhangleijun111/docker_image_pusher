@@ -8,3 +8,4 @@ opencoze/opencoze:latest
 opencoze/web:latest
 portainer/portainer
 instantlinux/nut:latest
+networkupstools/nut:latest
