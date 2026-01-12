@@ -16,3 +16,4 @@ nsqio/nsq:v1.2.1
 cozedev/coze-studio-server:latest
 cozedev/coze-studio-web:latest
 portainer/portainer
+instantlinux/nut:latest
