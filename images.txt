@@ -1,6 +1,6 @@
 lobehub/lobe-chat-database
-langgenius/dify-api:1.11.2
-langgenius/dify-web:1.11.2
+langgenius/dify-api:1.11.3
+langgenius/dify-web:1.11.3
 langgenius/dify-plugin-daemon:0.5.2-local
 langgenius/dify-sandbox:0.2.12
 minio/minio:latest
