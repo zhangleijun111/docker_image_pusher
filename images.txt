@@ -1,5 +1,5 @@
-langgenius/dify-api:1.12.0
-langgenius/dify-web:1.12.0
+langgenius/dify-api:1.12.1
+langgenius/dify-web:1.12.1
 langgenius/dify-plugin-daemon:0.5.3-local
 langgenius/dify-sandbox:0.2.12
 minio/minio:latest
