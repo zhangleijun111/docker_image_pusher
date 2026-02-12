@@ -6,4 +6,4 @@ minio/minio:latest
 opencoze/opencoze:latest
 opencoze/web:latest
 portainer/portainer
-ghcr.io/networkupstools/nut
+fjyktec/modernwms:latest
