@@ -6,5 +6,4 @@ minio/minio:latest
 opencoze/opencoze:latest
 opencoze/web:latest
 portainer/portainer
-fjyktec/modernwms:latest
 apache/hertzbeat
