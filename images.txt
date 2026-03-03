@@ -7,4 +7,4 @@ opencoze/opencoze:latest
 opencoze/web:latest
 portainer/portainer
 apache/hertzbeat
-ghcr.io/1186258278/openclaw:latest
+jiulingyun803/openclaw-cn:latest
