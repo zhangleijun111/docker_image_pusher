@@ -6,6 +6,4 @@ minio/minio:latest
 opencoze/opencoze:latest
 opencoze/web:latest
 portainer/portainer
-apache/hertzbeat
-jiulingyun803/openclaw-cn:latest
 openclaw/openclaw:2026-latest
