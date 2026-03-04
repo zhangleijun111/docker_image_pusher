@@ -8,4 +8,4 @@ opencoze/web:latest
 portainer/portainer
 apache/hertzbeat
 jiulingyun803/openclaw-cn:latest
-openclaw/openclaw
+openclaw/openclaw:2026-latest
