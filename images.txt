@@ -3,7 +3,4 @@ langgenius/dify-web:1.13.0
 langgenius/dify-plugin-daemon:0.5.3-local
 langgenius/dify-sandbox:0.2.12
 minio/minio:latest
-opencoze/opencoze:latest
-opencoze/web:latest
-portainer/portainer
-openclaw/openclaw:2026-latest
+openclaw/openclaw:latest
