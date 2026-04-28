@@ -3,8 +3,8 @@ langgenius/dify-web:1.14.0-rc1
 langgenius/dify-plugin-daemon:0.5.3-local
 langgenius/dify-sandbox:0.2.12
 redis:7.0.4
-dataelement/bisheng-backend:v2.4.0-beta1-fix
-dataelement/bisheng-frontend:v2.4.0-beta1-fix
+dataelement/bisheng-backend:v2.4.0
+dataelement/bisheng-frontend:v2.4.0
 docker.io/bitnamilegacy/elasticsearch:8.12.0
 quay.io/coreos/etcd:v3.5.5
 minio/minio:RELEASE.2023-03-20T20-16-18Z
