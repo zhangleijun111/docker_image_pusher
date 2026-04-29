@@ -1,6 +1,6 @@
-langgenius/dify-api:1.14.0-rc1
-langgenius/dify-web:1.14.0-rc1
-langgenius/dify-plugin-daemon:0.5.3-local
+langgenius/dify-api:1.14.0
+langgenius/dify-web:1.14.0
+langgenius/dify-plugin-daemon:0.6.0-local
 langgenius/dify-sandbox:0.2.12
 redis:7.0.4
 dataelement/bisheng-backend:v2.4.0
