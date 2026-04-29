@@ -1,10 +1,8 @@
 langgenius/dify-api:1.14.0
 langgenius/dify-web:1.14.0
 langgenius/dify-plugin-daemon:0.6.0-local
-langgenius/dify-sandbox:0.2.12
+langgenius/dify-sandbox:0.2.15
 redis:7.0.4
-dataelement/bisheng-backend:v2.4.0
-dataelement/bisheng-frontend:v2.4.0
 docker.io/bitnamilegacy/elasticsearch:8.12.0
 quay.io/coreos/etcd:v3.5.5
 minio/minio:RELEASE.2023-03-20T20-16-18Z
