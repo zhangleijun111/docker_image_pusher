@@ -1,6 +1,6 @@
-langgenius/dify-api:1.14.1
-langgenius/dify-web:1.14.1
-langgenius/dify-plugin-daemon:0.6.0-local
+langgenius/dify-api:1.14.2
+langgenius/dify-web:1.14.2
+langgenius/dify-plugin-daemon:0.6.1-local
 langgenius/dify-sandbox:0.2.15
 redis:7.0.4
 docker.io/bitnamilegacy/elasticsearch:8.12.0
