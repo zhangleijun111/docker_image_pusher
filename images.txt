@@ -7,8 +7,6 @@ mysql:8.0
 oceanbase/oceanbase-ce:4.3.5-lts
 oceanbase/seekdb:latest
 langgenius/qdrant:v1.8.3
-vastdata/vastbase-vector
-containers.intersystems.com/intersystems/iris-community:2025.3
 milvusdb/milvus:v2.6.3
 opengauss/opengauss:7.0.0-RC1
 matrixorigin/matrixone:2.1.1
