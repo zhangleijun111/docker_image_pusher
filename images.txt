@@ -10,3 +10,5 @@ langgenius/qdrant:v1.8.3
 milvusdb/milvus:v2.6.3
 opengauss/opengauss:7.0.0-RC1
 matrixorigin/matrixone:2.1.1
+langgenius/dify-agent-local-sandbox:1.16.0
+langgenius/dify-agent-backend:1.16.0
