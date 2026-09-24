@@ -13,3 +13,4 @@ matrixorigin/matrixone:2.1.1
 langgenius/dify-agent-local-sandbox:1.17.1
 langgenius/dify-agent-backend:1.17.1
 nousresearch/hermes-agent:latest
+node:22
