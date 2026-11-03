@@ -1,5 +1,5 @@
-langgenius/dify-api:1.17.1
-langgenius/dify-web:1.17.1
+langgenius/dify-api:1.18.0
+langgenius/dify-web:1.18.0
 langgenius/dify-plugin-daemon:0.6.10-local
 langgenius/dify-sandbox:0.2.14
 mysql:8.0
@@ -8,7 +8,7 @@ oceanbase/seekdb:latest
 langgenius/qdrant:v1.8.3
 milvusdb/milvus:v2.6.3
 opengauss/opengauss:7.0.0-RC1
-langgenius/dify-agent-local-sandbox:1.17.1
-langgenius/dify-agent-backend:1.17.1
+langgenius/dify-agent-local-sandbox:1.18.0
+langgenius/dify-agent-backend:1.18.0
 nousresearch/hermes-agent:latest
-
+langgenius/dify-knowledge-fs-api:deploy-konwledge
